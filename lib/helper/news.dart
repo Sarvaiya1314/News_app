@@ -57,7 +57,7 @@ class CategoryNewsClass{
             urlToImage:element["urlToImage"],
             content: element["context"],
           );
-
+//
           news.add(articleModel);
         }
       });
